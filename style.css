@@ -51,7 +51,18 @@ body {
     display: block;
     margin: 27px auto;
 }
-
+#icons {
+    max-width: 675px;
+    text-align: center;
+    width: 100%;
+    margin: 1px auto;
+    font-size: 2.75rem;
+    gap: 30px;
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+    color: inherit;
+}
 .link {
     position: relative;
     background-color: transparent;
