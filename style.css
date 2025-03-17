@@ -61,7 +61,6 @@ body {
     display: flex;
     text-decoration: none;
     justify-content: center;
-    color: inherit;
 }
 .link {
     position: relative;
